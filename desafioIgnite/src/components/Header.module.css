@@ -1,0 +1,28 @@
+.header {
+    background-color: var(--gray-700);
+    height: 12.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--purple-Dark);
+}
+
+.todo {
+    display: flex;
+    align-items: center;;
+    justify-content: center;
+    width: 7.875rem;
+    height: 3rem;
+}
+
+.todo svg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.375rem;
+    margin-right: 0.75rem;
+}
+
+.todo span {
+    color: var(--blue);
+}
